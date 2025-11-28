@@ -211,7 +211,6 @@ footer .redes img {
     margin-bottom: 12px;
     border: 1px solid #ccc;
     border-radius: 8px;
-    align-items:center;
 }
 
 .login-container button {
@@ -395,6 +394,7 @@ footer .redes img {
     }
 
 }
+
 
 
 
