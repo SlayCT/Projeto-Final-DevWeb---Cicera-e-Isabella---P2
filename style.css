@@ -257,6 +257,7 @@ footer .redes img {
     margin: 8px 0;
     border-radius: 8px;
     border: 1px solid #ddd;
+     align-items: center;
 }
 
 .trocar label {
@@ -391,4 +392,5 @@ footer .redes img {
         flex-wrap: wrap;
         gap: 10px;
     }
+
 }
