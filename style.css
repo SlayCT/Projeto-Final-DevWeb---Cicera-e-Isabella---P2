@@ -197,7 +197,6 @@ footer .redes img {
     background: white;
     text-align: center;
     box-shadow: 0 2px 10px rgba(0,0,0,0.5);
-    align-items:center;
 }
 
 .login-container h2 {
@@ -212,6 +211,7 @@ footer .redes img {
     margin-bottom: 12px;
     border: 1px solid #ccc;
     border-radius: 8px;
+    align-items:center;
 }
 
 .login-container button {
@@ -395,5 +395,6 @@ footer .redes img {
     }
 
 }
+
 
 
